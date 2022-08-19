@@ -19,10 +19,10 @@
 
 ## 网络
 ### 基础
-- 计算机网络体系结构（5层&7层）
-- TCP/IP协议、UDP协议
-- Http协议
-- Socket
+- [计算机网络体系结构（5层&7层）](https://segmentfault.com/a/1190000039204681)
+- [TCP/IP协议、UDP协议](https://blog.csdn.net/dmk17771552304/article/details/120328150)
+- [Http协议](https://www.cnblogs.com/ranyonsue/p/5984001.html)
+- [Socket与websocket](https://juejin.cn/post/6844903805797007374)
 - [TCP三握手四挥手](https://juejin.cn/post/6844903958624878606)
 ### 网络请求库
 okhttp|retrofit|okgo
@@ -72,22 +72,23 @@ Glide|Fresco
 ---
 
 # Java相关
+## [Java全栈知识体系](https://pdai.tech/)
 ## 语言特性
-- 面向对象的3个特征与含义
-- 多态的实现原理
-- 4中引用：强、弱、软、虚&使用场景
+- [面向对象的3个特征与含义](https://blog.51cto.com/u_15080030/4206285)
+- [多态的实现原理](https://segmentfault.com/a/1190000021936858)
+- [4种引用：强、弱、软、虚&使用场景](https://blog.csdn.net/l540675759/article/details/73733763)
 ## 集合类
-- Collection、Arrays类
-- List、Set、Queue、Stack、Map特点&用法
-- Vector、ArrayList、LinkedList存储特性&区别
-- Map相关
+- [Collection、Arrays类](https://blog.csdn.net/qq_42402854/article/details/99944385)
+- [List、Set、Queue、Stack、Map特点](https://bluestragglers.com/java-ji-he-lei-zong-jie/#toc-head-2)
+- [Vector、ArrayList、LinkedList存储特性&区别](https://blog.csdn.net/zhangqiluGrubby/article/details/72870493)
+- [Map相关](https://blog.csdn.net/weixin_46140377/article/details/124032488)
 ## 机制
-- 多线程
-- 线程同步
-- 反射
-- JNI
-- IO&NIO
-- 泛型
+- [多线程](https://www.runoob.com/java/java-multithreading.html)
+- [线程同步](https://www.cnblogs.com/xhjt/p/3897440.html)
+- [反射](https://www.cnblogs.com/chanshuyi/p/head_first_of_reflection.html)
+- [JNI](https://blog.csdn.net/createchance/article/details/53783490)
+- [IO&NIO](https://blog.csdn.net/m0_37583655/article/details/125187201)
+- [泛型](https://pdai.tech/md/java/basic/java-basic-x-generic.html)
 
 ## 虚拟机JVM
 - [文章](https://blog.csdn.net/ZYJWR/article/details/121603325)
